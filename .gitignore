@@ -1,5 +1,4 @@
 venv
 test
-.vscode
 .idea
 .mypy_cache
